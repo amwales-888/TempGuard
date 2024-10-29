@@ -1,4 +1,4 @@
-# TempGuardFirmwareV2
+# TempGuard
 PID Temperature Controller dsPIC33EV64GM004 Hardware/Firmware 
 
 Initial requirements were to control the temperature of an enclosed system, holding it as close as possible to a set temperature during operation. Venting air out of the enclosure using a FAN would quickly bring the temperature inside the enclosure to match the outside temperature which was unacceptable. Using an MCU we can monitor the temperature and vent air using a fan at a controlled rate. PID algorythms are commonly used in such systems - ['A proportional–integral–derivative controller (PID controller or three-term controller) is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control.'](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
