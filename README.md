@@ -34,4 +34,15 @@ The firmware is written to the MCU in-circuit using a Microchip [Pickit5](https:
 
 For test and verification the first version of the device was coded on a dsPIC33EV64GM002 28pin DIP version of the device and soldered onto stripboard, the results for a 40minute session were logged, once the enclosure reached the required set temperature their was little to no deviation seen over the 40minutes.
 
+## Hardware/Enclosure
+
+![Enclosure](Hardware/enclosure/assembled.png)
+![Board1 Top](Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Top.png)
+![Board1 Bot](Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Bot.png)
+![Board2 Top](Hardware/dsPIC33EV64GM004/images/bdebounce-Top.png)
+![Board2 Bot](Hardware/dsPIC33EV64GM004/images/bdebounce-Bot.png)
+![Board3 Bot](Hardware/dsPIC33EV64GM004/images/tconnectors-Top.png)
+![Board3 Bot](Hardware/dsPIC33EV64GM004/images/tconnectors-Bot.png)
+
+
 
