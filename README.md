@@ -36,13 +36,26 @@ For test and verification the first version of the device was coded on a dsPIC33
 
 ## Hardware/Enclosure
 
-![Enclosure](Hardware/enclosure/assembled.png)
-![Board1 Top](Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Top.png)
-![Board1 Bot](Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Bot.png)
-![Board2 Top](Hardware/dsPIC33EV64GM004/images/bdebounce-Top.png)
-![Board2 Bot](Hardware/dsPIC33EV64GM004/images/bdebounce-Bot.png)
-![Board3 Bot](Hardware/dsPIC33EV64GM004/images/tconnectors-Top.png)
-![Board3 Bot](Hardware/dsPIC33EV64GM004/images/tconnectors-Bot.png)
-
-
-
+<table>
+  <tr>
+    <td> <img src="Hardware/enclosure/assembled.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Top.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/TempGuard-v2-revC-Bot.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/bdebounce-Top.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/bdebounce-Bot.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/tconnectors-Top.png"></td>
+  </tr>
+  <tr>
+    <td> <img src="Hardware/dsPIC33EV64GM004/images/tconnectors-Bot.png"></td>
+  </tr>
+</table>
